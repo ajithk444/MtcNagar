@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_icons/flutter_icons.dart';
+import 'package:mtcnagar/widgets/badge.dart';
 
 class InfoPage extends StatefulWidget {
   InfoPage({Key key, this.title}) : super(key: key);
@@ -12,6 +14,7 @@ class _InfoPageState extends State<InfoPage> {
     @override
   Widget build(BuildContext context) {
     return Scaffold(
+       
       body: Center(
         child: Text('Events Info Page'),
       ),
