@@ -1,0 +1,6 @@
+
+
+class FireStoreHelper{
+  //FireStoreHelper():super();
+
+}
