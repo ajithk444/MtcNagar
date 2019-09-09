@@ -96,8 +96,8 @@ class _BottomBarState extends State<BottomBar> {
         items: <Widget>[
           Icon(Icons.home, size: 30),
           Icon(Icons.event, size: 30),
-          Icon(Icons.business, size: 30),
-          Icon(Icons.contact_phone, size: 30)
+          Icon(Icons.developer_board, size: 30),
+          Icon(Icons.call, size: 30)
         ],
         color: Colors.green,//blue[300],
         buttonBackgroundColor: Colors.green,//blue[300],
